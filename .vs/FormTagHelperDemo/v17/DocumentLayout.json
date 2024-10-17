@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\views\\student\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\models\\branch.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|c:\\users\\joy\\source\\repos\\formtaghelperdemo\\formtaghelperdemo\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88AD35ED-B6E1-445B-829A-72E3BE0DA676}|FormTagHelperDemo\\FormTagHelperDemo.csproj|solutionrelative:formtaghelperdemo\\models\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "FormTagHelperDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:30:18.906Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\Register.cshtml",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Views\\Student\\Register.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\Register.cshtml",
+              "RelativeToolTip": "FormTagHelperDemo\\Views\\Student\\Register.cshtml",
+              "ViewState": "AgIAAFQAAAAAAAAAAAAwwHIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:25:54.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Views\\Student\\Details.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "FormTagHelperDemo\\Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:24:52.365Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\List.cshtml",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Views\\Student\\List.cshtml",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Views\\Student\\List.cshtml",
+              "RelativeToolTip": "FormTagHelperDemo\\Views\\Student\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-17T06:23:40.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "FormTagHelperDemo\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAwEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T06:06:46.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Student.cs",
+              "RelativeToolTip": "FormTagHelperDemo\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:50:52.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Branch.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Branch.cs",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Models\\Branch.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Branch.cs",
+              "RelativeToolTip": "FormTagHelperDemo\\Models\\Branch.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:49:41.456Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Gender.cs",
+              "RelativeDocumentMoniker": "FormTagHelperDemo\\Models\\Gender.cs",
+              "ToolTip": "C:\\Users\\JOY\\source\\repos\\FormTagHelperDemo\\FormTagHelperDemo\\Models\\Gender.cs",
+              "RelativeToolTip": "FormTagHelperDemo\\Models\\Gender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-17T05:48:07.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
